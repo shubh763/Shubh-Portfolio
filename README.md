@@ -6,15 +6,18 @@ Welcome to my portfolio repository! I am a passionate Frontend Developer who enj
 
 ## 🚀 Featured Projects
 
-### [Edusity](https://edusitykipaathsaala.netlify.app/)
+### Firstenquiry | Careers ([https://firstenquiry.com/career/#/]
 A React-based college inquiry portal featuring:
 - Dynamic routing and navigation
 - Form validation
 - Responsive and modern UI/UX
 
-### Dice Game
-A fun, interactive dice game built with JavaScript and DOM manipulation.  
-[Play Here](https://yourprojectlink.com)
+### Pixel Pro Tehnology
+Developed responsive web pages using HTML, CSS, Bootstrap, JavaScript, ReactJS, Redux, and Material-UI,
+ensuring seamless compatibility across various devices. Focused on delivering an optimized user experience by applying
+responsive design techniques and performance best practices. Maintained a clean, modular, and scalable
+front-end architecture that allowed for easy updates and future enhancements. The use of modern UI libraries and
+state management tools ensured a smooth and interactive user interface for better engagement and functionality.  
 
 ### Personal Portfolio Website
 My personal portfolio site built using HTML, CSS, JavaScript, and React.  
@@ -36,8 +39,10 @@ Features:
 
 ## 👨‍🎓 About Me
 
-I'm Shubh Kumar, an MCA graduate from Chandigarh University.  
-I’m a quick learner, a collaborative team player, and passionate about building robust frontend solutions that delight users.
+Master's of Computer Application with 1.2 Years of experience in frontend development,
+specializing as a UI developer, web developer, and web designer. Proficient in HTML5, CSS3,
+Bootstrap, SASS, ReactJS, Hooks, Redux, JavaScript, XML, JSON, API integration, NodeJS,
+ExpressJS, EJS, MySQL, MySQL Server.
 
 ---
 
